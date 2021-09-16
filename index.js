@@ -108,7 +108,7 @@ function createRope(line, pos, world, group, linkWidth, flagWidth) {
   return ropeA.bodies;
 }
 
-const lines = ["HAPPIEEE", "BIRTHDAY", "SWEETIE"];
+const lines = ["HAPPY", "BIRTHDAY"];;
 
 const width = window.innerWidth;
 const height = window.innerHeight;
